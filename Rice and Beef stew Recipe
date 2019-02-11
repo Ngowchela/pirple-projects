@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Rice and Beef Recipe</title>
+</head>
+<body>
+    <h1>Rice and Beef Recipe</h1>
+  <!--Unordered List for ingredients -->
+  <h3>Ingredients</h3>
+  <ul>
+    <li>1/2kg of rice</li>
+     <li>1/2kg of beef</li>
+     <li>4 tomatoes</li>
+     <li>2 onions</li>
+     <li>1 garlic</li>
+     <li>1 ginger</li>
+     <li>2 liters of water</li>
+     <li>1 table spoon of salt</li>
+     <li>Cooking oil</li>
+     <li>Coriander leaves</li>
+     </ul>
+     <!--Ordered list for the cooking steps-->
+ <h3>Cooking Steps</h3>
+
+   <h4>A)Cooking the rice</h4>
+    <ol>
+      <li>Boil at least 1.5 liters of water</li>
+      <li>Add a table spoon of salt </li>
+      <li>Put the rice in the boiling water and cover with a lid 
+          <em>Wait for at least 20 minutes at moderate temperature. Until almost all the water has everporated.</em></li>
+      <li>Cut the Coriander leaves and add to the rice pot </li>
+      <li>Stir the rice pot until it mixes well with the coriander </li>
+      <li>After all water has dried, remove the rice pot from the heat. <em>Rice is ready!</em></li>
+   </ol>
+   <h4>B)Cooking the Beef stew</h4>
+   <ol>
+        <li>Cut the meet into small prices</li>
+        <li>Cut the tomatoes and the onions </li>
+        <li>Boil the meat for a few minutes to tenderise it </li>
+        <li>Fry the onions with cooking oil and then add the boiled meat </li>
+        <li>Add the garlic and ginger and stir for 3 minutes </li>
+        <li>Add the tomatoes and a 1/2 liter of water and cover for 10 minutes. <em>The stew has mixed nicely and almost ready</em></li>
+        <li> Stir the beef stew for 2 minutes abd cover again. Wait for 3 minutes and remove the pot from the heat<em>The beef stew is ready</em></li>
+     </ol>
+     <p>Better served when hot.<strong>Enjoy!!!</strong></p>
+</body>
+</html>
